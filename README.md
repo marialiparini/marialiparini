@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ununtu&lines=Hi%2C+I'm+Maria+Eliza.+Dev+Front-end.)
 
-<img src="https://github.com/user-attachments/assets/8b5fe0d1-7866-4c77-a4be-af06d06a895d" width="250px" align="right" alt="pingu" />
+<img src="https://github.com/user-attachments/assets/8b5fe0d1-7866-4c77-a4be-af06d06a895d" width="200px" align="right" alt="pingu" />
 
 <br/>
 <br/>
